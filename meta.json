@@ -1,0 +1,29 @@
+{
+  "repo": "easeus-todo-backup-enterprise",
+  "product": "EaseUS Todo Backup Enterprise",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://easeus.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "easeus",
+    "system-backup",
+    "disk-cloning",
+    "scheduled-backup",
+    "disaster-recovery",
+    "data-protection",
+    "restore-tools",
+    "enterprise-backup",
+    "easeus-backup-setup-failed-fix",
+    "how-to-install-easeus-backup",
+    "easeus-windows",
+    "backup-tools",
+    "windows-tools",
+    "system-utility"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "easeus",
+  "nexpath_app_name": "EaseUS"
+}
